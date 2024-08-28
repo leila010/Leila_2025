@@ -6,6 +6,7 @@ hide: true
 ---
 
 My journey starts here.
+
 Markdown samples markdown cheatsheet
 Using markdown form index.md. We are learning markdown.
 
