@@ -78,3 +78,18 @@ permalink: /about/
 ## Not so Fun Facts:
 - CLASS OF 2028
 - I have 2 pets
+- I am in a family of 6
+- I have traveled to Japan twice
+- I play the violin and am in Orchestra
+- All pets I have ever had were named by starwar characters
+- I have a obsession with cats and hope to one day own 100
+- I really enjoy playing video games, especially horror ones
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmjESXZ7FfjaCk0iDUgzxm16vcMqAlgQ_Tw&amp;s" alt="Cat Pixel Black Vector Images (over 750)"/>
+
+## Hopes and Dreams for this Class
+
+- I hope by taking this class I can get a better idea about coding, have more experience with this subject, and to learn as much as I can with the coding world, and possibly coding games.
+- I hope to one day be able to code my own game by participating in this class.
+
+<img src="https://gifdb.com/images/high/elmo-fire-meme-black-cat-8bazozefdmbp4wwh.gif" alt="Elmo Fire Meme Black Cat GIF | GIFDB.com"/>
