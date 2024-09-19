@@ -5,6 +5,8 @@ description: Home Page
 hide: true
 ---
 
+{% include nav/home.html %}
+
 My journey starts here.
 
 Markdown samples markdown cheatsheet
@@ -22,7 +24,10 @@ Sample of bullets
 - Performing team work, team communication and collaboration, peer reviews/grading
 - Focus on tehnical communications through project presentations and student led teaching
 - Grades are on projects, learnt concepts, and live reviews between student(s) and teacher
-Cat Attack
 
-download (6)
+## Cat Attack
 
+![download (6)](https://github.com/user-attachments/assets/c9439a2e-053a-45b2-99b4-56500a1f8afe)
+
+
+## Ideas for this Class: 

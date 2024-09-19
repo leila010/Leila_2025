@@ -1,6 +1,7 @@
 ---
 layout: page
-title: snake
+title: Snake Game
 permalink: /snake/
 ---
+
 {% include nav/home.html %}
