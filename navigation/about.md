@@ -93,3 +93,14 @@ permalink: /about/
 - I hope to one day be able to code my own game by participating in this class.
 
 <img src="https://gifdb.com/images/high/elmo-fire-meme-black-cat-8bazozefdmbp4wwh.gif" alt="Elmo Fire Meme Black Cat GIF | GIFDB.com"/>
+
+<script> src="https://utteranc.es/client.js"
+        repo="nighthawkcoders/portfolio_2025"
+        issue-term="title"
+        label="blogpost-comment"
+        theme="github-light"
+        crossorgin = "anonymous"
+        async> 
+
+</script>
+-->
