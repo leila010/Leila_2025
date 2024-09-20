@@ -95,7 +95,7 @@ permalink: /about/
 <img src="https://gifdb.com/images/high/elmo-fire-meme-black-cat-8bazozefdmbp4wwh.gif" alt="Elmo Fire Meme Black Cat GIF | GIFDB.com"/>
 
 <script> src="https://utteranc.es/client.js"
-        repo="nighthawkcoders/portfolio_2025"
+        repo="nighthawkcoders/Leila_2025"
         issue-term="title"
         label="blogpost-comment"
         theme="github-light"
