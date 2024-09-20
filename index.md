@@ -190,7 +190,7 @@ hide: true
 
 </script>
 
-
+### My Journey Starts Here
 
 ## Cat Attack
 
@@ -198,3 +198,30 @@ hide: true
 
 
 ## Ideas for this Class: 
+- I am very intrested in the idea of creating and developing games 
+- I would like to one day take the knowledge I get from this class and use it one day to create my own video game
+- I would like to learn more about coding in python, javascript, etc
+
+## Fun things I like to do
+- I like to watch Netflix/Movies in my free time
+- I enjoy reading books, especially horror/mystery novels
+- Sometimes I take my cat outside for a walk, I use a cat backpack and I think she enjoys it
+- Once in a while I go on bike rides around town for fun
+
+<img src="https://media.tenor.com/Z3JoBmhZR4EAAAAM/cat-cat-reading.gif" alt="Cat Reading GIFs | Tenor"/>
+
+## Did you know?
+- I played tennis for about 7 years
+- I semi know how to play the piano
+- I have injured my left arm around 6 times, 4 times sprained, 1 broke it, 1 fractured it
+- I never signed up for coding for my first choice when signing up for classes, but my 1st option was full and I ended up here, but I am glad to be here and am learning things I never knew about which will be very useful in the future!
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhuZTJ6M2tkcmVoYjN4aHRrNjNrYWphcTVpcGF6bGFkbWt5N2ZvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ECwTCTrHPVqKI/giphy.gif" alt="ping pong GIF"/>
+
+## Random Fun Facts about Coding!
+- There are more than 700 coding languages
+- Today, NASA still uses programs that are dated in the 70s for their spacecraft
+- The first programming language is known as FORTRAN‍
+- Computer communicates through 0's and 1's‍ 
+
+<img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="Cat Coding GIF - Cat Coding - Discover &amp; Share GIFs"/>

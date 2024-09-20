@@ -87,7 +87,7 @@ permalink: /about/
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmjESXZ7FfjaCk0iDUgzxm16vcMqAlgQ_Tw&amp;s" alt="Cat Pixel Black Vector Images (over 750)"/>
 
-## Hopes and Dreams for this Class
+## Hopes and Dreams for this Class 🐈
 
 - I hope by taking this class I can get a better idea about coding, have more experience with this subject, and to learn as much as I can with the coding world, and possibly coding games.
 - I hope to one day be able to code my own game by participating in this class.
