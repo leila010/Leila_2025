@@ -225,3 +225,72 @@ hide: true
 - Computer communicates through 0's and 1's‍ 
 
 <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="Cat Coding GIF - Cat Coding - Discover &amp; Share GIFs"/>
+
+
+
+### Development Environment
+
+> CODING TOOLS: 
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://github.com/leila010/Leila_2025">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://jm1021.github.io/john_2025/">
+        <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
+    </a>
+    <a href="https://ubuntu.com/">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+    </a>
+    <a href="https://vscode.dev/">
+        <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+    </a>
+</div>
+
+<br>
+
+### Game Progress
+
+> PROGRESS OF CURRENT GAMES:
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="{{site.baseurl}}/snake" style="text-decoration: none;">
+        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Snake Game
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/rpg/dot0" style="text-decoration: none;">
+        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Turtle v0.0
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/rpg/dot1" style="text-decoration: none;">
+        <div style="background-color: #FF8800; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Turtle v0.1
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/rpg/dot2" style="text-decoration: none;">
+        <div style="background-color: #FFFF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Turtle v0.2
+        </div>
+    </a>
+</div>
+
+<br>
+
+### College Articulation
+
+> PREPERATION FOR COLLEGE TOPICS:
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="{{site.baseurl}}/csse/javascript/fundamentals/variables" style="text-decoration: none;">
+        <div style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Variables I/O
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/csse/javascript/fundamentals/data-types/" style="text-decoration: none;">
+        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Data Types
+        </div>
+    </a>
+</div>
