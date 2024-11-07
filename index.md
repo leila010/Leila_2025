@@ -259,19 +259,19 @@ hide: true
             Snake Game
         </div>
     </a>
-    <a href="{{site.baseurl}}/rpg/dot0" style="text-decoration: none;">
+    <a href="{{site.baseurl}}/rpg0" style="text-decoration: none;">
         <div style="background-color: #00ff6a; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Turtle v0.0
         </div>
     </a>
-    <a href="{{site.baseurl}}/rpg/dot1" style="text-decoration: none;">
+    <a href="{{site.baseurl}}/rpg2" style="text-decoration: none;">
         <div style="background-color: #00ff6a; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Turtle v0.1
+            Turtle v0.2
         </div>
     </a>
-    <a href="{{site.baseurl}}/rpg/dot2" style="text-decoration: none;">
+    <a href="{{site.baseurl}}/rpg" style="text-decoration: none;">
         <div style="background-color: #00ffbb; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Turtle v0.2
+            Hospital v0.2
         </div>
     </a>
 </div>
