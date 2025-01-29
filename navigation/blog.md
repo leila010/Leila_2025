@@ -30,3 +30,11 @@ _**Process of Planning:**_
 
 **Summary:**
 -Overall I have learned and got a better understanding of lots of elements in the game and the process of it all. Now for Sprint 5, it's our goal to figure out and study how to change the ending properly.
+
+
+### Personal Journal
+
+## Entry #1 1/13-1/14
+
+
+
