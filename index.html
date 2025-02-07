@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game with Text</title>
+    <style>
+        canvas {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <header></header>
+    <canvas id="gameCanvas" width="1038" height="580"></canvas>
+    <footer></footer>
+    <script type="module">
+        import GameEnv from './GameEnv.js';
+        import NpcAboutPage from './NpcAboutPage.js';
+
+        GameEnv.create();
+
+        const canvas = document.getElementById('gameCanvas');
+        const ctx = canvas.getContext('2d');
+
+        const npcAboutPage = new NpcAboutPage('');
+        npcAboutPage.draw(ctx);
+    </script>
+</body>
+</html>

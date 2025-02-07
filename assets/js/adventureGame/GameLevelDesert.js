@@ -17,7 +17,7 @@ class GameLevelDesert {
     const image_src_desert = path + "/images/gamify/desert.png"; // be sure to include the path
     const image_data_desert = {
         name: 'desert',
-        greeting: "Welcome to the desert!  It is hot and dry here, but there are many adventures to be had!",
+        greeting: " ",
         src: image_src_desert,
         pixels: {height: 580, width: 1038}
     };

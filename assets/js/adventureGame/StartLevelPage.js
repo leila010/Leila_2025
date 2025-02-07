@@ -15,7 +15,7 @@ class StartLevelPage {
     const image_src_startpage = path + "/images/gamify/startpage.png"; // be sure to include the path
     const image_data_startpage = {
         name: 'startpage',
-        greeting: "START PAGE!!",
+        greeting: "Press the Escape Button to Start the Game",
         src: image_src_startpage,
         pixels: {height: 580, width: 1038}
     };
