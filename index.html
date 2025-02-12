@@ -8,15 +8,30 @@
         canvas {
             border: 1px solid black;
         }
+        #startButton {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
     </style>
 </head>
 <body>
     <header></header>
     <canvas id="gameCanvas" width="1038" height="580"></canvas>
+    <button id="startButton">Start Game</button>
     <footer></footer>
     <script type="module">
         import GameEnv from './GameEnv.js';
         import NpcAboutPage from './NpcAboutPage.js';
+        import GameControl from './GameControl.js';
 
         GameEnv.create();
 
@@ -25,6 +40,12 @@
 
         const npcAboutPage = new NpcAboutPage('');
         npcAboutPage.draw(ctx);
+
+        // Add the event listener for the start button
+        document.getElementById('startButton').addEventListener('click', function() {
+            GameControl.start('path/to/your/assets'); // Adjust the path as needed
+            this.style.display = 'none'; // Hide the button after starting the game
+        });
     </script>
 </body>
 </html>

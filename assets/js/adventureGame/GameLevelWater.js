@@ -25,7 +25,7 @@ class GameLevelWater {
     const OCTOPUS_SCALE_FACTOR = 5;
     const sprite_data_octopus = {
         id: 'Octopus',
-        greeting: " ",
+        greeting: "",
         src: sprite_src_octopus,
         SCALE_FACTOR: OCTOPUS_SCALE_FACTOR,
         STEP_FACTOR: 1000,
