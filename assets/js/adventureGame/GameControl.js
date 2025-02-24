@@ -124,6 +124,11 @@ const GameControl = {
         // Move to the next level
         this.currentLevelIndex++;
         // Go back to the loadLevel function
+
+        if(this.skipNpcAbout) {
+            this.levelClasses.splice(1, 1);
+        }
+
         this.loadLevel();
     },
     
@@ -134,6 +139,10 @@ const GameControl = {
         for (let object of GameEnv.gameObjects) {
             object.resize(); // Resize the game objects
         }
+    },
+
+    setSkipNpcAbout: function(skip) {
+        this.skipNpcAbout = skip;
     },
 
     addExitKeyListener: function() {

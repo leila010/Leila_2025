@@ -43,10 +43,14 @@ class StartLevelPage {
     document.body.appendChild(npcButton);
 
     npcButton.addEventListener("click",() => {
+      GameControl.setSkipNpcAbout(false);
       GameControl.currentLevelIndex = 1;
       GameControl.loadLevel();
       npcButton.remove();
     });  
+
+    GameControl.setSkipNpcAbout(true);
+
   }
 }
 
