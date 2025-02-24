@@ -1,6 +1,7 @@
 // To build GameLevels, each contains GameObjects from below imports
 import GameEnv from './GameEnv.js';
 import Background from './Background.js';
+import GameControl from './GameControl.js';
 
 class StartLevelPage {
   constructor(path) {
@@ -25,8 +26,28 @@ class StartLevelPage {
       { class: Background, data: image_data_startpage },
      // { class: Npc, data: sprite_data_htmlhank }, 
     ];
-  }
+  
+    const npcButton = document.createElement("button");
+    npcButton.innerText = "NPC About Page";
+    npcButton.style.position = "absolute";
+    npcButton.style.top = "400px";
+    npcButton.style.left = "650px";
+    npcButton.style.padding = "20px 40px";
+    npcButton.style.fontSize = "24px";
+    npcButton.style.backgroundColor = "#4CAF50";
+    npcButton.style.color = "white";
+    npcButton.style.border = "none";
+    npcButton.style.borderRadius = "5px";
+    npcButton.style.cursor = "pointer";
 
+    document.body.appendChild(npcButton);
+
+    npcButton.addEventListener("click",() => {
+      GameControl.currentLevelIndex = 1;
+      GameControl.loadLevel();
+      npcButton.remove();
+    });  
+  }
 }
 
 export default StartLevelPage;

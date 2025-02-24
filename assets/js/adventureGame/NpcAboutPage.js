@@ -14,7 +14,7 @@ class NpcAboutPage {
         const image_src_npcaboutpage = `${path}/images/gamify/npcaboutpage.png`; // be sure to include the path
         const image_data_npcaboutpage = {
             name: 'npcaboutpage',
-            greeting: "ABOUT PAGE FOR NPCs!",
+            greeting: "Press Escape to Continue",
             src: image_src_npcaboutpage,
             pixels: { height: 580, width: 1038 }
         };
@@ -31,6 +31,5 @@ class NpcAboutPage {
             instance.draw(ctx);
         });
     }
-}
-
+} 
 export default NpcAboutPage;
