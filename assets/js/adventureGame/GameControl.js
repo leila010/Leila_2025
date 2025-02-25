@@ -104,7 +104,7 @@ const GameControl = {
     handleLevelStart: function() {
         // First time message for level 0, delay 10 passes
         if (this.currentLevelIndex === 0 && this.currentPass === 10) {
-            alert("Start Level.");
+            
         }
         // Recursion tracker
         this.currentPass++;
@@ -113,7 +113,7 @@ const GameControl = {
     handleLevelEnd: function() {
         // More levels to play 
         if (this.currentLevelIndex < this.levelClasses.length - 1) {
-            alert("Level ended.");
+            
         } else { // All levels completed
             alert("Game over. All levels completed.");
         }
