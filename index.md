@@ -2,7 +2,7 @@
 layout: base
 title: Student Home 
 description: Home Page
-images: /images/mario_animation.png
+images: /images/mario_animation.png/
 hide: true
 ---
 
@@ -192,6 +192,93 @@ hide: true
 
 ## My Journey Starts Here
 
+### Development Environment
+
+> CODING TOOLS: 
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://github.com/leila010/Leila_2025">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://jm1021.github.io/john_2025/">
+        <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
+    </a>
+    <a href="https://ubuntu.com/">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+    </a>
+    <a href="https://vscode.dev/">
+        <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+    </a>
+</div>
+
+<br>
+
+### Game Progress
+
+> PROGRESS OF CURRENT GAMES:
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="{{site.baseurl}}/snake" style="text-decoration: none;">
+        <div style="background-color: #00ffbb; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Snake Game
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/rpg" style="text-decoration: none;">
+        <div style="background-color: #00ffbb; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Hospital v0.2
+        </div>
+        <a href="{{site.baseurl}}/gamify/adventureGame/" style="text-decoration: none;">
+        <div style="background-color: #00ffbb; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Adventure Game
+        </div>
+    </a>
+    </a>
+</div>
+
+<br>
+
+### College Articulation
+
+> PREPERATION FOR COLLEGE TOPICS:
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="{{site.baseurl}}/Final/Exam/Blogs/control-structures/" style="text-decoration: none;">
+        <div style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Control Structures
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/csse/javascript/fundamentals/classes/" style="text-decoration: none;">
+        <div style="background-color:rgb(0, 0, 0); color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Classes
+        </div>
+    <a href="{{site.baseurl}}/Final/Exam/Blogs/data-types/" style="text-decoration: none;">
+        <div style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Data Types
+        </div>
+    </a><a href="{{site.baseurl}}/Final/Exam/Blogs/input-output/" style="text-decoration: none;">
+        <div style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Input Output
+        </div>
+    </a><a href="{{site.baseurl}}/Final/Exam/Blogs/operators/" style="text-decoration: none;">
+        <div style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Operators
+        </div>
+    </a><a href="{{site.baseurl}}/Final/Exam/Blogs/planning-changes/" style="text-decoration: none;">
+        <div style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Planning Changes
+        </div>
+    </a><a href="{{site.baseurl}}/Final/Exam/Blogs/retrospective-engineering/" style="text-decoration: none;">
+        <div style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Retrospective Engineering
+        </div>
+    </a><a href="{{site.baseurl}}/Final/Exam/Blogs/software-development/" style="text-decoration: none;">
+        <div style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Software Development
+        </div>
+    </a>
+    </a>
+</div>
+
 ### Cat Attack
 
 ![download (6)](https://github.com/user-attachments/assets/c9439a2e-053a-45b2-99b4-56500a1f8afe)
@@ -228,69 +315,3 @@ hide: true
 
 
 
-### Development Environment
-
-> CODING TOOLS: 
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="https://github.com/leila010/Leila_2025">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://jm1021.github.io/john_2025/">
-        <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
-    </a>
-    <a href="https://ubuntu.com/">
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-    </a>
-    <a href="https://vscode.dev/">
-        <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
-    </a>
-</div>
-
-<br>
-
-### Game Progress
-
-> PROGRESS OF CURRENT GAMES:
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="{{site.baseurl}}/snake" style="text-decoration: none;">
-        <div style="background-color: #00ffbb; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Snake Game
-        </div>
-    </a>
-    <a href="{{site.baseurl}}/rpg0" style="text-decoration: none;">
-        <div style="background-color: #00ff6a; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Turtle v0.0
-        </div>
-    </a>
-    <a href="{{site.baseurl}}/rpg2" style="text-decoration: none;">
-        <div style="background-color: #00ff6a; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Turtle v0.2
-        </div>
-    </a>
-    <a href="{{site.baseurl}}/rpg" style="text-decoration: none;">
-        <div style="background-color: #00ffbb; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Hospital v0.2
-        </div>
-    </a>
-</div>
-
-<br>
-
-### College Articulation
-
-> PREPERATION FOR COLLEGE TOPICS:
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="{{site.baseurl}}/csse/javascript/fundamentals/variables" style="text-decoration: none;">
-        <div style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Variables I/O
-        </div>
-    </a>
-    <a href="{{site.baseurl}}/csse/javascript/fundamentals/data-types/" style="text-decoration: none;">
-        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Data Types
-        </div>
-    </a>
-</div>
