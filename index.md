@@ -247,7 +247,7 @@ hide: true
             Control Structures
         </div>
     </a>
-    <a href="{{site.baseurl}}/csse/javascript/fundamentals/classes/" style="text-decoration: none;">
+    <a href="{{site.baseurl}}/Final/Exam/Blogs/classes/" style="text-decoration: none;">
         <div style="background-color:rgb(0, 0, 0); color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Classes
         </div>
@@ -276,6 +276,22 @@ hide: true
             Software Development
         </div>
     </a>
+    </a>
+</div>
+### Blog(s):
+
+> FINAL CODE CHANGES, REVIEW:
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="{{site.baseurl}}/Final/Review/final-code-changes/" style="text-decoration: none;">
+        <div style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Final Code Changes
+        </div>
+    </a>
+     <a href="{{site.baseurl}}/Final/Review/retrospective/" style="text-decoration: none;">
+        <div style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Retrospective
+        </div>
     </a>
 </div>
 
