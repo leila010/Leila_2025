@@ -228,10 +228,10 @@ hide: true
             Hospital v0.2
         </div>
         <a href="{{site.baseurl}}/gamify/adventureGame/" style="text-decoration: none;">
-        <div style="background-color: #00ffbb; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Adventure Game
-        </div>
-    </a>
+    <div style="background-color: #00ffbb; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+        Adventure Game
+    </div>
+</a>
     </a>
 </div>
 
@@ -291,6 +291,11 @@ hide: true
      <a href="{{site.baseurl}}/Final/Review/retrospective/" style="text-decoration: none;">
         <div style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Retrospective
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/Final/Review/issue-burndown/" style="text-decoration: none;">
+        <div style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Issue Burndown
         </div>
     </a>
 </div>
